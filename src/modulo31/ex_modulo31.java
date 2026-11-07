@@ -5,6 +5,12 @@ import java.util.Locale;
 public class ex_modulo31{
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
+//%f = double
+//%d = int
+//%s = string
+//%n = quebra de linha
+
+
 
         String product1 = "Computer";
         String product2 = "Office desk";
