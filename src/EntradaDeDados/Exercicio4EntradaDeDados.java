@@ -12,12 +12,12 @@ public class Exercicio4EntradaDeDados {
                 Locale.setDefault(Locale.US);
                 Scanner sc = new Scanner(System.in);
 
-                String Nome;
+                String nome;
                 int horas;
                 double valorHora, salario;
 
                 System.out.println("Digite Seu Nome");
-                Nome = sc.next();
+                nome = sc.nextLine();
 
                 System.out.println("Digite A QuantiDade De Horas Trabalhadas");
                 horas = sc.nextInt();
@@ -27,7 +27,7 @@ public class Exercicio4EntradaDeDados {
 
                 salario = valorHora * horas;
 
-                System.out.println("Name = " + Nome);
+                System.out.println("Name = " + nome);
                 System.out.printf("Salary = U$ %.2f%n", salario);
 
                 sc.close();
