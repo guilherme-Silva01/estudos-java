@@ -1,4 +1,4 @@
-package Modulo_32;
+package EntradaDeDados;
 
 public class Exemplo01{
 public static void main(String[] args) {

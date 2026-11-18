@@ -1,4 +1,4 @@
-package Modulo_32;
+package EntradaDeDados;
 import java.util.Scanner;
 
 public class Exercicio2EntradaDeDados {

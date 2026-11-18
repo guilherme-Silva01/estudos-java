@@ -1,4 +1,4 @@
-package Modulo_32;
+package EntradaDeDados;
 
 import java.util.Locale;
 import java.util.Scanner;
